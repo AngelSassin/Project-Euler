@@ -1,36 +1,22 @@
-Hello. This is a README. 
+This repo contains python programs that calculate the answers to Project Euler questions.
+After calculation, every program prints the answer to its cooresponding problem.
 
-Basically, this repo contains python programs that calculate the answers to Project Euler questions.
-After calculation, it prints the answer.
+There are 96 finished problems in this repository:
+1-79. 
+81-83. 
+85-86. 
+89. 
+91-93. 
+97. 
+99. 
+102. 
+104-105. 
+203. 
+206. 
+218. 
 
-Finished problems that are in this repository:
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
+The extra files in the repo are one of two things: 
+ - .txt files from which the programs must read.
+ - .py files that assist the programs by providing necessary functions.
+
+The basic rule for every problem in Project Euler is that it can be calculated by a computer in less than one minute. My goal is to have my problems solve them all in less than ten seconds each. I'll get back to how I'm doing in this aspect later.
