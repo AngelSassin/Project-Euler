@@ -1,10 +1,8 @@
 This repo contains python programs that calculate the answers to Project Euler questions.
 After calculation, every program prints the answer to its cooresponding problem.
 
-There are 96 finished problems in this repository:
-1-79. 
-81-83. 
-85-86. 
+There are a lot of finished problems in this repository:
+1-86. 
 89. 
 91-93. 
 97. 
@@ -14,6 +12,7 @@ There are 96 finished problems in this repository:
 203. 
 206. 
 218. 
+
 
 The extra files in the repo are one of two things: 
  - .txt files from which the programs must read.
